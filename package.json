@@ -1,0 +1,16 @@
+{
+  "name": "wuzzuf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^21.2.1"
+  }
+}
